@@ -41,3 +41,6 @@ DMARC Failure      → HIGH
 Social Engineering → HIGH
 Suspicious Link    → HIGH
 Overall Risk       → HIGH
+tools used
+for sample email - caniphish
+for header analysis - google admin toolbox email header
